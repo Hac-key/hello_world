@@ -1,4 +1,4 @@
-# hello_world
+# News Summarizer
 
 A small Python project that reads news articles from a CSV file, summarizes each article with the OpenAI API, and writes the results to an output CSV.
 
